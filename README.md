@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likhith117
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning Powerapps,powerautomate,powerBI, Google data analytics certificate
+- 🌱 I’m currently learning DSA and data science
 - 💞️ I’m looking to collaborate on Data analytics
 - 📫 How to reach me : likhithgopisetty2998@gmail.com
 
